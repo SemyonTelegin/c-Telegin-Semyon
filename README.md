@@ -12,4 +12,5 @@ Strikethrough uses two tildes. ~~i like lyceum.~~
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rana_esculenta_on_Nymphaea_edit.JPG/300px-Rana_esculenta_on_Nymphaea_edit.JPG">
  | tables | cool |
+ | ------ |:----:|
  | let me | die  |
